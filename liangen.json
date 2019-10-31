@@ -1,0 +1,22 @@
+{
+    "app":{
+        "version":"7.3.5",
+        "versionCode":"243",
+        "link":"https://github.com/jinbolin227/siyou/blob/master/MagiskManager-v7.3.5.apk",
+        "note":"https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@40b6ed879cecc24bedeeec4cac4aec3ac82c03dc/notes.md"
+    },
+    "magisk":{
+        "version":"19.4",
+        "versionCode":"19400",
+        "link":"https://github.com/jinbolin227/siyou/blob/master/Magisk-v19.4.zip",
+        "note":"https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@40b6ed879cecc24bedeeec4cac4aec3ac82c03dc/notes.md",
+        "md5":"9ae4ba71a4971d7e64abd8d7c97be1ed"
+    },
+    "uninstaller":{
+        "link":"https://github.com/jinbolin227/siyou/blob/master/Magisk-uninstaller.zip"
+    },
+    "stub":{
+        "versionCode":"2",
+        "link":"https://github.com/jinbolin227/siyou/blob/master/stub-release.apk"
+    }
+}
